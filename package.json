@@ -1,5 +1,7 @@
 {
   "name": "boostrap_copy",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
